@@ -1,4 +1,4 @@
-name: v2rayfree
+name: clashfree
 
 on:
   repository_dispatch:

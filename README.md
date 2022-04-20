@@ -24,4 +24,5 @@ xxxxxxxx
 
 [点击下载](https://github.com/aiboboxx/clashfree/blob/main/clash.yml)
 
-友情链接：[免费v2ray节点](https://www.v2rayfree.eu.org) [免费v2ray节点订阅](https://github.com/aiboboxx/v2rayfree) [开心驿站](https://www.kxyz.eu.org)
+友情链接：[免费v2ray节点](https://www.v2rayfree.eu.org)  [开心驿站](https://www.kxyz.eu.org)  [免费v2ray节点订阅](https://github.com/aiboboxx/v2rayfree) 
+

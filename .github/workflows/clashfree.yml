@@ -32,7 +32,7 @@ jobs:
             - name: Run install
               run: npm install
             - name: Run Script
-              run: node v2rayfree.js # > report2.txt       
+              run: node clashfree.js # > report2.txt       
             - name: Pushes to another repository
               id: push_directory
               uses: cpina/github-action-push-to-another-repository@main

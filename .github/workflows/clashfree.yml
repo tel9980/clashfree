@@ -41,13 +41,13 @@ jobs:
               with:
                 source-directory: 'output'
                 destination-github-username: 'aiboboxx'
-                destination-repository-name: 'v2rayfree'
+                destination-repository-name: 'clashfree'
                 user-email: aiboboxx@gmail.com
                 commit-message: update
                 target-branch: main      
             - name: Commit report
               run: |
-                echo  "v2rayfree运行时间：`date '+%Y%m%d %H%M%S'`" > report.txt   
+                echo  "clashfree运行时间：`date '+%Y%m%d %H%M%S'`" > report.txt   
                 git config --global user.name 'coolliubo'
                 git config --global user.email 'coolliubo@gmail.com'
                 git commit -am "Automated report $(date '+%Y/%m/%d')"

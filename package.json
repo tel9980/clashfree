@@ -1,0 +1,26 @@
+{
+  "name": "clashfree",
+  "version": "1.0.0",
+  "description": "clashfree",
+  "main": "clashfree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolliubo/clashfree.git"
+  },
+  "author": "ZhiHua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolliubo/clashfree/issues"
+  },
+  "homepage": "https://github.com/coolliubo/clashfree",
+  "dependencies": {
+    "@actions/core": "^1.2.7",
+    "@actions/github": "^4.0.0",
+    "puppeteer": "^9.1.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.8.1"
+  }
+}

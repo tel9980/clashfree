@@ -3,11 +3,7 @@ clash科学上网、clash翻墙、clash节点、clash订阅链接、clash教程 
 
 ### clash使用教程：
 
-[clash翻墙|科学上网---clash for windows 详细教程](https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/)
-
-[clash翻墙|科学上网---Clash for Andriod 详细教程](https://www.v2rayfree.eu.org/post/clash-for-android-tutorial/)
-
-[clash翻墙|科学上网---ClashX 详细教程 macOS端](https://www.v2rayfree.eu.org/post/clash-for-mac-tutorial/)
+[clash科学上网：clash for windows 详细教程](https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/)
 
 ### clash订阅链接：
 
